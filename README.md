@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,typescript,git,linux,kubernetes,docker,vagrant&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,react,typescript,git,linux,docker&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <tr>
     <td><strong>FT_TRANSCENDENCE</strong></td>
     <td>A Website with a pong game.</td>
-    <td><a href="https://https://github.com/achille-bsc/transcendence">Voir le Repo</a></td>
+    <td><a href="https://github.com/achille-bsc/transcendence">Voir le Repo</a></td>
   </tr>
   <tr>
     <td><strong>FT_IRC</strong></td>
