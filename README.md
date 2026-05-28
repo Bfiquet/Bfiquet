@@ -49,9 +49,9 @@
   <a href="mailto:Bfiquet@student.42lehavre.fr">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/baptiste-fiquet42">
+  <a href="https://www.linkedin.com/in/baptiste-fiquet42">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Lumeris4&label=Vues%20du%20profil&color=36454F&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bfiquet&label=Vues%20du%20profil&color=36454F&style=flat" alt="Views" />
 </p>
